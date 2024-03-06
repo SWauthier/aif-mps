@@ -1,0 +1,6 @@
+from .agent import GymAgent, MPSAgent
+from .discrete_fe_agent import DiscreteFreeEnergyAgent
+from .multi_discrete_fe_agent import MultiDiscreteFreeEnergyAgent
+from .discrete_surprisal_agent import DiscreteSurprisalAgent
+from .multi_discrete_surprisal_agent import MultiDiscreteSurprisalAgent
+from .random_agent import RandomAgent

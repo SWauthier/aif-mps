@@ -1,0 +1,14 @@
+gym==0.17.2
+gymnasium>=0.27.1
+gym_bandits@git+https://github.com/JKCooper2/gym-bandits#egg=gym-bandits
+h5py>=3.8.0
+inferactively_pymdp@git+https://github.com/infer-actively/pymdp#egg=pymdp
+matplotlib>=3.4.3
+plotly==5.16.1
+pymdp>=0.0.1
+pynverse>=0.1.4.4
+seaborn>=0.11.2
+tensorboard>=2.12.0
+torch>=1.9.1
+tqdm>=4.62.3
+wandb>=0.15.8
